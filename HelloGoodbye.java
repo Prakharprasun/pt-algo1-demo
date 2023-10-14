@@ -10,7 +10,7 @@ public static void main(String [] args){
         String x = sc.nextLine();
         System.out.println("Enter name2");
         String y = sc.nextLine();
-        System.out.println("Hello "+x+"and "+y);
-        System.out.print("Goodbye "+y+"and "+x);
+        System.out.println("Hello "+x+" and "+y);
+        System.out.print("Goodbye "+y+" and "+x);
     
 }}}
