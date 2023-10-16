@@ -1,3 +1,4 @@
+//prints hello and goodbye messages as shown below (with the names for the hello message in the same order and with the names for the goodbye message in reverse order).
 import java.util.Scanner;
 class HelloGoodbye{
 public static void main(String [] args){

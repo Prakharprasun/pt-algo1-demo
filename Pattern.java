@@ -1,4 +1,12 @@
-//To print pattern
+/*To print pattern
+
+     *****
+    *****
+   *****
+  *****
+ ***** 
+ 
+ */
 public class Pattern {
     public static void main(String args[]){
         int n=5;
